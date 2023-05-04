@@ -4,3 +4,5 @@
 0x01-Basic_authentication/README.md:Zone.Identifier
 0x01-Basic_authentication/requirements.txt:Zone.Identifier
 0x01-Basic_authentication/__pycache__
+0x02-Session_authentication/.venv
+0x02-Session_authentication/__pycache__
