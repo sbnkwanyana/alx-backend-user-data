@@ -6,3 +6,6 @@
 0x01-Basic_authentication/__pycache__
 0x02-Session_authentication/.venv
 0x02-Session_authentication/__pycache__
+0x02-Session_authentication/api/__pycache__
+0x02-Session_authentication/api/v1/__pycache__
+0x02-Session_authentication/models/__pycache__
